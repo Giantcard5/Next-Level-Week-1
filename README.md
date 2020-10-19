@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=36c756&labelColor=fff" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=36c756&labelColor=fff">
 </p>
 
 <br>
