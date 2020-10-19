@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
+    <img alt="Ecoleta" title="Ecoleta" src="https://github.com/rocketseat-education/nlw-01-discovery/blob/master/.github/ecoleta.svg" width="220px" />
 </h1>
 
 <p align="center">
